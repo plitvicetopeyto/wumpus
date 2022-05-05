@@ -1,4 +1,4 @@
-# prompt
+# Story
 
 The Wumpus World is a cave consisting of rooms connected by passageways. Lurking
 somewhere in the cave is the terrible wumpus, a beast that eats anyone who enters its room.
